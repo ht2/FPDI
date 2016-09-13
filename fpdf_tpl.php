@@ -11,6 +11,7 @@
 if (!class_exists('fpdi_bridge')) {
     require_once('fpdi_bridge.php');
 }
+require_once('fpdf.php');
 
 /**
  * Class FPDF_TPL
